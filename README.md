@@ -21,3 +21,9 @@ STEPS TO RUN IN CMD :
 •	Then activate the environment(activate)
 •	Now come back to environment folder bu using(cd..)
 •	Then run the program by (python app.py)
+
+INPUT NEED TO BE GIVEN AS:
+hi, how are you doing?	
+i'm fine. how about yourself?	
+i'm pretty good. thanks for asking.
+i've been great. what about you?
